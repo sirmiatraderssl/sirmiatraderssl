@@ -1,16 +1,27 @@
-## Hi there 👋
+# Sirmia Traders SSL
 
-<!--
-**sirmiatraderssl/sirmiatraderssl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Empresa especializada en equipos de tratamiento del agua, con foco en soluciones para el control y eliminación de la cal.
 
-Here are some ideas to get you started:
+🌐 [www.sirmia.com](https://www.sirmia.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ¿Qué hacemos?
+
+Diseñamos y comercializamos equipos para el tratamiento del agua, especialmente orientados a la problemática del calcio y la dureza del agua. Nuestros productos están pensados para instalaciones domésticas, hostelería e industria.
+
+---
+
+## Repositorios
+
+| Repo | Descripción | Visibilidad |
+|------|-------------|-------------|
+| [web-mega-1](https://github.com/sirmiatraderssl/web-mega-1) | Versión 1 del sitio web del producto | Público |
+| [web-mega-2](https://github.com/sirmiatraderssl/web-mega-2) | Versión 2 del sitio web del producto | Público |
+| programacion-placas | Firmware ESP32 — PCB con pantalla táctil SPI 2.4" | Privado |
+
+---
+
+## Contacto
+
+📧 Para consultas técnicas o comerciales: [www.sirmia.com](https://www.sirmia.com)
